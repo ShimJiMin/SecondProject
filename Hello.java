@@ -7,3 +7,7 @@ public class Hello{
 	}
 }
 
+
+
+ls
+ls-al
